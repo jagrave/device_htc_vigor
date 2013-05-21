@@ -60,7 +60,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.touchscreen.multitouch.jazzhand.xml:system/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml \
 
 # Misc
-PRODUCT_PACKAGES += gps.vigor Stk FileManager
+PRODUCT_PACKAGES += gps.vigor Stk FileManager vigorril
 
 # Audio/Video codecs
 PRODUCT_COPY_FILES += \
