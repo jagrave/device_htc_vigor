@@ -89,3 +89,4 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/class/android_usb/android0/f_mass_storag
 
 # Use power button as select in recovery
 BOARD_HAS_NO_SELECT_BUTTON := true
+TARGET_RECOVERY_FSTAB = device/htc/vigor/ramdisk/fstab.vigor
